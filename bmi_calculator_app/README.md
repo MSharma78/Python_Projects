@@ -11,6 +11,7 @@ A simple BMI calculator app created with **Python** and **Streamlit**.
 - Calculates BMI and displays the result
 - Categorizes BMI (Underweight, Normal, Overweight, Obese)
 - Provides advice based on BMI result
+- Provides Google Maps links to nearby dieticians or health clinics for further help
 
 ---
 
